@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/moodboard-old-work/static/css/main.105fd679.chunk.css",
-    "main.js": "/moodboard-old-work/static/js/main.dbe855d5.chunk.js",
-    "main.js.map": "/moodboard-old-work/static/js/main.dbe855d5.chunk.js.map",
+    "main.js": "/moodboard-old-work/static/js/main.072fb968.chunk.js",
+    "main.js.map": "/moodboard-old-work/static/js/main.072fb968.chunk.js.map",
     "runtime-main.js": "/moodboard-old-work/static/js/runtime-main.b6d10b41.js",
     "runtime-main.js.map": "/moodboard-old-work/static/js/runtime-main.b6d10b41.js.map",
-    "static/js/2.0e8a1b49.chunk.js": "/moodboard-old-work/static/js/2.0e8a1b49.chunk.js",
-    "static/js/2.0e8a1b49.chunk.js.map": "/moodboard-old-work/static/js/2.0e8a1b49.chunk.js.map",
+    "static/js/2.6cf19cdb.chunk.js": "/moodboard-old-work/static/js/2.6cf19cdb.chunk.js",
+    "static/js/2.6cf19cdb.chunk.js.map": "/moodboard-old-work/static/js/2.6cf19cdb.chunk.js.map",
     "index.html": "/moodboard-old-work/index.html",
     "static/css/main.105fd679.chunk.css.map": "/moodboard-old-work/static/css/main.105fd679.chunk.css.map",
-    "static/js/2.0e8a1b49.chunk.js.LICENSE.txt": "/moodboard-old-work/static/js/2.0e8a1b49.chunk.js.LICENSE.txt",
+    "static/js/2.6cf19cdb.chunk.js.LICENSE.txt": "/moodboard-old-work/static/js/2.6cf19cdb.chunk.js.LICENSE.txt",
     "static/media/camera.6e3e17bb.svg": "/moodboard-old-work/static/media/camera.6e3e17bb.svg",
     "static/media/header-img.ee0068b9.svg": "/moodboard-old-work/static/media/header-img.ee0068b9.svg",
     "static/media/login-img.9cb85e3f.svg": "/moodboard-old-work/static/media/login-img.9cb85e3f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b6d10b41.js",
-    "static/js/2.0e8a1b49.chunk.js",
+    "static/js/2.6cf19cdb.chunk.js",
     "static/css/main.105fd679.chunk.css",
-    "static/js/main.dbe855d5.chunk.js"
+    "static/js/main.072fb968.chunk.js"
   ]
 }
