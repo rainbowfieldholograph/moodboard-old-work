@@ -16,10 +16,10 @@ const App = () => {
   return (
     <div className="App">
       <Switch>
-        <Route path={process.env.PUBLIC_URL + '/'} exact>
+        <Route path="/" exact>
           <Home />
         </Route>
-        <Route path={process.env.PUBLIC_URL + '/photos'}>
+        <Route path="/photos">
           <Photos data={data} />
         </Route>
       </Switch>
