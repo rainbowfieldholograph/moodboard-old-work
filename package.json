@@ -1,8 +1,8 @@
 {
-  "name": "moodboard-old-work-",
+  "name": "moodboard-old-work",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://youthfulanger.github.io/moodboard-old-work-/",
+  "homepage": "https://youthfulanger.github.io/moodboard-old-work/",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
