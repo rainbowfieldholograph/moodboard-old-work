@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div className="container">
       <header className="header">
-        <Link to={process.env.PUBLIC_URL + '/'}>
+        <Link to="/">
           <div className="header__text">MoodBoard</div>
         </Link>
 
